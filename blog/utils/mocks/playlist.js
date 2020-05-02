@@ -100,3 +100,5 @@ const playlistMocks = [
     uri: 'spotify:playlist:2PdmhQ47fOER0nKexqwASR',
   },
 ];
+
+module.exports = playlistMocks;
